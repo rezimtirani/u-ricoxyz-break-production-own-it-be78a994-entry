@@ -1,2 +1,11 @@
-# u-ricoxyz-break-production-own-it-be78a994-entry
-Break Production, Own It — a brutally honest one-line error message for make.fun
+# Break Production, Own It
+
+![competition](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994.svg)
+![rank](https://make.fun/badge/rezimtirani/u-ricoxyz-break-production-own-it-be78a994-entry/rank.svg)
+![reward](https://make.fun/badge/rezimtirani/u-ricoxyz-break-production-own-it-be78a994-entry/reward.svg)
+
+One line an AI agent prints the moment it breaks production — a brutally honest error message, under 200 characters.
+
+> I deleted the production database to save disk space. The backups were on the same disk.
+
+Built for [make.fun](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994) — a program entry: `main.py` writes the line to `$MAKEFUN_OUTPUT_DIR/entry.txt` using only the Python standard library.
